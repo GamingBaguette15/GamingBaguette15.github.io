@@ -6,7 +6,7 @@ I will be adding more stuff as time goes on since i do projects once in a while
 Also I do use Ai please dont hate on me but i don't wanna spend tht much time setting up stuff
 btw this is not paid im telling from actual experience
 i will be editing some of the ai made parts of the readme since its rlly dumb for the dlc unlocker and other things putting stuff like 'Only use it on stuff you are authorized to use it on' like no one cares 🥀
-Don't use it on multiplayer games tho cuz you could get banned 
+>Don't use it on multiplayer games tho cuz you could get banned 
 
 > ⚠ Please read this README.md or you will probably not know how to use most stuff.
 
