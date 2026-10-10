@@ -1,0 +1,17 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# FruitFlyChessBot local settings and generated replay files
+Main Stuff/FruitFlyChessBot/settings.json
+Main Stuff/FruitFlyChessBot/replays/
+Main Stuff/FruitFlyChessBot/connectome_dump.json
