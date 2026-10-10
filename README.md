@@ -1,7 +1,10 @@
 # GamingBaguette15 — Downloads & Projects
 
 A small download shelf for projects and tools I use. Please read the notes and limitations before downloading or running anything.
-I make open source stuff for fun if yall have any issues post it in the issues tab and i'd like to have some ideas to add so you could also post it there
+I make open source stuff for fun if yall have any issues post it in the issues tab and i'd like to have some ideas to add so you could also post it there.
+I will be adding more stuff as time goes on since i do projects once in a while
+Also I do use Ai please dont hate on me but i don't wanna spend tht much time setting up stuff the ai agent i use is freebuff they give you 5 hours of unlimited use of gpt 6 luna a day or 1 hour of gpt 6.1 sol
+btw this is not paid im telling from actual experience
 
 > ⚠ Please read this README.md or you will probably not know how to use most stuff.
 
