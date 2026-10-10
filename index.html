@@ -108,6 +108,15 @@
     .requirements-panel strong { color: var(--text); }
     .requirements-panel a { color: var(--accent); }
     .warning-note { margin-top: 14px !important; padding: 11px 13px; border-left: 3px solid #f2bd60; border-radius: 0 6px 6px 0; background: rgba(242, 189, 96, .09); color: #f0d8aa !important; }
+    .readme-content { max-width: 850px; margin-inline: auto; padding: 30px; border: 1px solid var(--line); border-radius: 14px; background: var(--panel); }
+    .readme-content p, .readme-content li { color: var(--muted); font-size: 14px; line-height: 1.8; }
+    .readme-content h3 { margin: 38px 0 12px; font-size: 22px; letter-spacing: -.04em; }
+    .readme-content h3:first-of-type { margin-top: 30px; }
+    .readme-content a { color: var(--accent); }
+    .readme-content blockquote { margin: 14px 0; padding: 12px 16px; border-left: 3px solid #f2bd60; border-radius: 0 6px 6px 0; background: rgba(242, 189, 96, .09); color: #f0d8aa; }
+    .readme-content blockquote p { margin: 0; color: inherit; }
+    .readme-content img { display: block; width: 100%; height: auto; margin: 18px 0; border: 1px solid var(--line); border-radius: 10px; }
+    .readme-content ul { padding-left: 24px; }
     footer { padding: 23px 0 30px; border-top: 1px solid var(--line); color: var(--muted); font-family: var(--mono); font-size: 10px; }
     .footer-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
     footer a { color: var(--accent); text-decoration: none; }
@@ -148,7 +157,7 @@
       <div class="nav-links">
         <a href="#downloads">Downloads</a>
         <a href="#requirements">Setup</a>
-        <a class="nav-cta" href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/blob/main/README.md">README ↗</a>
+        <a class="nav-cta" href="#readme">README ↓</a>
       </div>
     </nav>
   </header>
@@ -161,7 +170,7 @@
       <p class="warning-note"><strong>⚠ Please read the README.md or you will probably not know how to use most stuff.</strong></p>
       <div class="actions">
         <a class="button button-primary" href="#downloads">Browse downloads <span aria-hidden="true">↓</span></a>
-        <a class="button" href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/blob/main/README.md">Read setup notes <span aria-hidden="true">↗</span></a>
+        <a class="button" href="#readme">Read the README <span aria-hidden="true">↓</span></a>
       </div>
     </section>
 
@@ -179,7 +188,7 @@
             <div class="tags"><span class="tag">THIRD-PARTY TOOL</span><span class="tag">COMPATIBILITY VARIES</span></div>
             <div class="card-actions">
               <a class="button button-primary button-small" href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff" target="_blank" rel="noopener noreferrer">Download CreamInstaller ↗</a>
-              <a class="button button-small" href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/blob/main/README.md#creaminstaller">Read details</a>
+              <a class="button button-small" href="#readme-creaminstaller">Read details</a>
             </div>
           </article>
           <article class="download-card">
@@ -200,7 +209,7 @@
             <div class="tags"><span class="tag">LATEST JAVA REQUIRED</span><span class="tag">ANDROID APK</span><span class="tag">VR</span><span class="tag">OFFLINE / SINGLE-PLAYER</span></div>
             <div class="card-actions">
               <a class="button button-primary button-small" href="Main%20Stuff/APK%20modding.7z" download>Download 7z ↓</a>
-              <a class="button button-small" href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/blob/main/README.md#vr-apk-modding">Read notes</a>
+              <a class="button button-small" href="#readme-vr-apk-modding">Read notes</a>
             </div>
           </article>
         </div>
@@ -215,8 +224,56 @@
         </div>
         <div class="requirements-panel">
           <h2>Python projects</h2>
-          <p><strong>Python 3.12 is preferred.</strong> Extract the FruitFlyChessBot 7z archive with 7-Zip and run <code>main.bat</code> on Windows; it checks for Python 3.9 or newer, installs the core packages, and starts the bot. See the <a href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/blob/main/README.md#fruitflychessbot">README</a> for setup details.</p>
+          <p><strong>Python 3.12 is preferred.</strong> Extract the FruitFlyChessBot 7z archive with 7-Zip and run <code>main.bat</code> on Windows; it checks for Python 3.9 or newer, installs the core packages, and starts the bot. See the <a href="#readme-fruitflychessbot">README</a> for setup details.</p>
         </div>
+      </div>
+    </section>
+
+    <section class="section" id="readme" aria-labelledby="readme-title">
+      <div class="shell">
+        <div class="section-heading">
+          <div><p class="section-kicker">Read it here</p><h2 id="readme-title">GamingBaguette15 — Downloads &amp; Projects</h2></div>
+          <p class="section-note">The README, right on the website.</p>
+        </div>
+        <article class="readme-content">
+          <p>A small download shelf for projects and tools I use.</p>
+          <p>I make open source stuff for fun if yall have any issues post it in the issues tab and i'd like to have some ideas to add so you could also post it there.</p>
+          <p>I will be adding more stuff as time goes on since i do projects once in a while</p>
+          <p>Also I do use Ai please dont hate on me but i don't wanna spend tht much time setting up stuff</p>
+          <p>btw this is not paid im telling from actual experience</p>
+          <p>i will be editing some of the ai made parts of the readme since its rlly dumb for the dlc unlocker and other things putting stuff like 'Only use it on stuff you are authorized to use it on' like no one cares 🥀</p>
+          <blockquote><p>⚠ Don't use it on multiplayer games tho cuz you could get banned</p></blockquote>
+          <blockquote><p>⚠ Please read this README.md or you will probably not know how to use most stuff.</p></blockquote>
+
+          <h3 id="readme-creaminstaller">CreamInstaller</h3>
+          <p>Credit to FroggMaster for CreamInstaller. It does not download DLC files. It can work with some games such as Plague Inc. when the DLC content is already present in the game files. It will not work for games where DLC has to be downloaded separately. Compatibility varies by title and game version.</p>
+          <p>The <a href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff" target="_blank" rel="noopener noreferrer">CreamInstaller release</a> is linked here for download.</p>
+
+          <h3 id="readme-fruitflychessbot">FruitFlyChessBot</h3>
+          <img width="2400" height="1350" alt="FruitFlyChessBot screenshot" src="https://github.com/user-attachments/assets/a597dec4-17ed-4755-a47a-79d2b77cd44e">
+          <p>A chess bot experiment inspired by a fruit-fly brain/connectome map. Download the 7z archive, extract it with <a href="https://www.7-zip.org/" target="_blank" rel="noopener noreferrer">7-Zip</a>, and run <code>main.bat</code> on Windows. The launcher checks for Python 3.9 or newer, installs the core dependencies, and starts the bot; <strong>Python 3.12 is recommended</strong>.</p>
+          <p>The bot can use mock/offline connectome data when neuPrint is unavailable. If you have authorized neuPrint API access, set <code>NEUPRINT_TOKEN</code> in your environment; never paste API tokens into source files or commit them.</p>
+          <ul>
+            <li><a href="Main%20Stuff/FruitFlyChessBot.7z" download>Download FruitFlyChessBot.7z</a></li>
+            <li><a href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/tree/main/Main%20Stuff/FruitFlyChessBot" target="_blank" rel="noopener noreferrer">Browse the source folder</a></li>
+            <li>It might take about 5 minutes to launch in slower systems since it takes about 20 seconds on mine</li>
+          </ul>
+
+          <h3 id="readme-vr-apk-modding">VR APK modding</h3>
+          <p>The latest Java version is required, and you will need some coding knowledge to understand and edit most of the files. It only rlly works on singleplayer games since most multiplayer games have authentication<br>Games that require online authentication—such as Gorilla Tag—are not supported. This is not for bypassing authentication, anti-cheat, or multiplayer protections. Back up your files before experimenting; I can't guarantee that a modified APK will work on a particular headset or game version.</p>
+          <ul>
+            <li><a href="Main%20Stuff/APK%20modding.7z" download>Download APK modding tools 7z</a></li>
+            <li><a href="https://github.com/GamingBaguette15/GamingBaguette15.github.io/tree/main/Main%20Stuff/APK%20modding" target="_blank" rel="noopener noreferrer">Browse the APK modding folder</a></li>
+          </ul>
+
+          <h3 id="readme-general-notes">General notes</h3>
+          <ul>
+            <li>Most projects need Python; Python 3.12 is preferred. The VR APK modding tools require the latest Java version.</li>
+            <li>Extract <code>.7z</code> downloads with 7-Zip before use. Most projects are source files or tools, not a promise of one-click setup; read their included files before running anything.</li>
+            <li>Scan downloads with your security software and only run files you trust.</li>
+            <li>Compatibility and requirements can change. Check the individual project files for current details.</li>
+          </ul>
+        </article>
       </div>
     </section>
   </main>
