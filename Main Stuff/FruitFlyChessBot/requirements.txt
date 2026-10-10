@@ -1,0 +1,4 @@
+neuprint-python>=0.4.5
+python-chess>=1.999
+pygame>=2.5
+numpy>=1.24
