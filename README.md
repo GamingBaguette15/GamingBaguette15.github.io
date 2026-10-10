@@ -6,10 +6,9 @@ A small download shelf for projects and tools I use. Please read the notes and l
 
 ## CreamInstaller
 
-Credit to FroggMaster for CreamInstaller. It does not download DLC files. My understanding is that it can work with some games such as Plague Inc. when the DLC content is already present in the game files. It will not work for games where DLC has to be downloaded separately. Compatibility varies by title and game version.
+Credit to FroggMaster for CreamInstaller. It does not download DLC files. It can work with some games such as Plague Inc. when the DLC content is already present in the game files. It will not work for games where DLC has to be downloaded separately. Compatibility varies by title and game version.
 
-Only use tools and game content you are authorized to use, and follow the game's and platform's rules. The [CreamInstaller release](https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff) is linked here for download. This page does not provide instructions to bypass purchases, access controls, or online checks.
-
+The [CreamInstaller release](https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff) is linked here for download.
 ## FruitFlyChessBot
 
 A chess bot experiment inspired by a fruit-fly brain/connectome map. Download the 7z archive, extract it with [7-Zip](https://www.7-zip.org/), and run `main.bat` on Windows. The launcher checks for Python 3.9 or newer, installs the core dependencies, and starts the bot; **Python 3.12 is recommended**.
