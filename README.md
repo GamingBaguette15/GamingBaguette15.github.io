@@ -10,6 +10,8 @@ Credit to FroggMaster for CreamInstaller. It does not download DLC files. It can
 
 The [CreamInstaller release](https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff) is linked here for download.
 ## FruitFlyChessBot
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/a597dec4-17ed-4755-a47a-79d2b77cd44e" />
+
 
 A chess bot experiment inspired by a fruit-fly brain/connectome map. Download the 7z archive, extract it with [7-Zip](https://www.7-zip.org/), and run `main.bat` on Windows. The launcher checks for Python 3.9 or newer, installs the core dependencies, and starts the bot; **Python 3.12 is recommended**.
 
