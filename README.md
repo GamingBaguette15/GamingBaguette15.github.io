@@ -8,23 +8,16 @@ A small download shelf for projects and tools I use. Please read the notes and l
 
 CreamInstaller is a third-party DLC unlocker; it does not download DLC files. My understanding is that it can work with some games such as Plague Inc. when the DLC content is already present in the game files. It will not work for games where DLC has to be downloaded separately. Compatibility varies by title and game version.
 
-Only use tools and game content you are authorized to use, and follow the game's and platform's rules. This page does not provide a CreamInstaller download or help bypass purchases, access controls, or online checks.
+Only use tools and game content you are authorized to use, and follow the game's and platform's rules. The [CreamInstaller release](https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff) is linked here for download. This page does not provide instructions to bypass purchases, access controls, or online checks.
 
 ## FruitFlyChessBot
 
-A chess bot experiment inspired by a fruit-fly brain/connectome map. Its project folder contains the Python source, saved weights, settings, and Windows launchers.
+A chess bot experiment inspired by a fruit-fly brain/connectome map. Download the ZIP, extract it, and run `main.bat` on Windows. The launcher checks for Python 3.9 or newer, installs the core dependencies, and starts the bot; **Python 3.12 is recommended**.
 
-**Python 3.12 is recommended.** The Windows launcher requires Python 3.9 or newer. Install the project's dependencies from its folder:
+The bot can use mock/offline connectome data when neuPrint is unavailable. If you have authorized neuPrint API access, set `NEUPRINT_TOKEN` in your environment; never paste API tokens into source files or commit them.
 
-```bash
-python -m pip install -r requirements.txt
-```
-
-On Windows, run `main.bat`. Elsewhere, run `python fly_connectome_chess.py`. It can use mock/offline connectome data when neuPrint is unavailable. If you have authorized neuPrint API access, set `NEUPRINT_TOKEN` in your environment; never paste API tokens into source files or commit them.
-
-- [Download the Python script](Main%20Stuff/FruitFlyChessBot/fly_connectome_chess.py)
-- [View the requirements](Main%20Stuff/FruitFlyChessBot/requirements.txt)
-- [Browse the project folder](Main%20Stuff/FruitFlyChessBot/)
+- [Download FruitFlyChessBot.zip](Main%20Stuff/FruitFlyChessBot.zip)
+- [Browse the source folder](Main%20Stuff/FruitFlyChessBot/)
 
 ## VR APK modding
 
@@ -32,6 +25,7 @@ The latest Java version is required, and you will need some coding knowledge to 
 
 Games that require online authentication—such as Gorilla Tag—are not supported. This is not for bypassing authentication, anti-cheat, or multiplayer protections. Back up your files before experimenting; I can't guarantee that a modified APK will work on a particular headset or game version.
 
+- [Download APK modding tools ZIP](Main%20Stuff/APK%20modding.zip)
 - [Browse the APK modding folder](Main%20Stuff/APK%20modding/)
 
 ## General notes
