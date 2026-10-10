@@ -1,0 +1,9 @@
+{
+  "difficulty": 10,
+  "eco_mode": true,
+  "realistic_mode": false,
+  "animation_seconds": 0.23999999999999996,
+  "training_games": 5,
+  "offline": false,
+  "stockfish_path": "C:/Users/mmend/Downloads/stockfish-windows-x86-64-universal/stockfish/stockfish-windows-x86-64-universal.exe"
+}
