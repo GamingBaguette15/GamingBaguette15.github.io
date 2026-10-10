@@ -6,7 +6,7 @@ A small download shelf for projects and tools I use. Please read the notes and l
 
 ## CreamInstaller
 
-CreamInstaller is a third-party DLC unlocker; it does not download DLC files. My understanding is that it can work with some games such as Plague Inc. when the DLC content is already present in the game files. It will not work for games where DLC has to be downloaded separately. Compatibility varies by title and game version.
+Credit to FroggMaster for CreamInstaller. It does not download DLC files. My understanding is that it can work with some games such as Plague Inc. when the DLC content is already present in the game files. It will not work for games where DLC has to be downloaded separately. Compatibility varies by title and game version.
 
 Only use tools and game content you are authorized to use, and follow the game's and platform's rules. The [CreamInstaller release](https://github.com/GamingBaguette15/GamingBaguette15.github.io/releases/tag/Stuff) is linked here for download. This page does not provide instructions to bypass purchases, access controls, or online checks.
 
