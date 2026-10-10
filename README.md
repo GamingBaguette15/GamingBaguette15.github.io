@@ -19,7 +19,7 @@ The bot can use mock/offline connectome data when neuPrint is unavailable. If yo
 
 - [Download FruitFlyChessBot.7z](Main%20Stuff/FruitFlyChessBot.7z)
 - [Browse the source folder](Main%20Stuff/FruitFlyChessBot/)
-- It might take about 5 minutes to launch in slower systems since it takes about 20 on mine
+- It might take about 5 minutes to launch in slower systems since it takes about 20 seconds on mine
 
 ## VR APK modding
 
