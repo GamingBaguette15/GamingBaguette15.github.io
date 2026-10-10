@@ -5,7 +5,7 @@ I make open source stuff for fun if yall have any issues post it in the issues t
 I will be adding more stuff as time goes on since i do projects once in a while
 Also I do use Ai please dont hate on me but i don't wanna spend tht much time setting up stuff the ai agent i use is freebuff they give you 5 hours of unlimited use of gpt 6 luna a day or 1 hour of gpt 6.1 sol
 btw this is not paid im telling from actual experience
-i will be editing some of the ai made parts of the readme since its rlly dumb for the dlc unlocker putting stuff like 'Only use it on stuff you are authorized to use it on' like no one cares 🥀
+i will be editing some of the ai made parts of the readme since its rlly dumb for the dlc unlocker and other things putting stuff like 'Only use it on stuff you are authorized to use it on' like no one cares 🥀
 
 > ⚠ Please read this README.md or you will probably not know how to use most stuff.
 
