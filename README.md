@@ -5,6 +5,7 @@ I make open source stuff for fun if yall have any issues post it in the issues t
 I will be adding more stuff as time goes on since i do projects once in a while
 Also I do use Ai please dont hate on me but i don't wanna spend tht much time setting up stuff the ai agent i use is freebuff they give you 5 hours of unlimited use of gpt 6 luna a day or 1 hour of gpt 6.1 sol
 btw this is not paid im telling from actual experience
+i will be editing some of the ai made parts of the readme since its rlly dumb for the dlc unlocker putting stuff like 'Only use it on stuff you are authorized to use it on' like no one cares 🥀
 
 > ⚠ Please read this README.md or you will probably not know how to use most stuff.
 
@@ -27,8 +28,7 @@ The bot can use mock/offline connectome data when neuPrint is unavailable. If yo
 
 ## VR APK modding
 
-The latest Java version is required, and you will need some coding knowledge to understand and edit most of the files. Use these tools only with APKs you own or are authorized to modify, and keep testing to offline, single-player use.
-
+The latest Java version is required, and you will need some coding knowledge to understand and edit most of the files. It only rlly works on singleplayer games since most multiplayer games have authentication
 Games that require online authentication—such as Gorilla Tag—are not supported. This is not for bypassing authentication, anti-cheat, or multiplayer protections. Back up your files before experimenting; I can't guarantee that a modified APK will work on a particular headset or game version.
 
 - [Download APK modding tools 7z](Main%20Stuff/APK%20modding.7z)
