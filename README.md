@@ -1,6 +1,7 @@
 # GamingBaguette15 — Downloads & Projects
 
 A small download shelf for projects and tools I use. Please read the notes and limitations before downloading or running anything.
+I make open source stuff for fun if yall have any issues post it in the issues tab and i'd like to have some ideas to add so you could also post it there
 
 > ⚠ Please read this README.md or you will probably not know how to use most stuff.
 
