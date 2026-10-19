@@ -1,3 +1,6 @@
+# Freebuff workspace metadata
+.freebuff/
+
 # Python bytecode and tool caches
 __pycache__/
 *.py[cod]
