@@ -139,11 +139,11 @@
     }
     @media (max-width: 520px) {
       .shell { width: min(100% - 32px, 1120px); }
-      .nav { min-height: 64px; }
+      .nav { min-height: 64px; flex-wrap: wrap; row-gap: 10px; padding-block: 12px; }
       .brand { font-size: 14px; }
       .nav-links { gap: 14px; }
       .nav-links a { font-size: 11px; }
-      .nav-links a:nth-child(2) { display: none; }
+      .nav-links a { white-space: nowrap; }
       .hero { padding-top: 58px; }
       h1 { font-size: clamp(46px, 14vw, 68px); }
       h1 span { font-size: .72em; }
